@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Olá, me chamo Samaia Gomes! 
 ## Bem vindo(a) ao meu perfil GitHub 👋
-- 🎓 Graduada em Ciências Contábeis - Unimonte 2017
+- 🎓 Graduada em Ciências Contábeis - Unimonte 2016
 - 📚 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas - Uninove - 1º Semestre - 2022-2
 
 
